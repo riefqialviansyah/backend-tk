@@ -1,0 +1,464 @@
+[
+  {
+    "categoryName": "Cemilan",
+    "sku": "MHZVTK",
+    "name": "Chiki Balls",
+    "description": "Bola-bola kecil renyah dengan rasa keju yang menggugah selera, sempurna untuk camilan kapan saja.",
+    "weight": 316,
+    "image": "https://down-id.img.susercontent.com/file/id-11134207-23020-n42a4s0ktsnv49",
+    "price": 5000
+  },
+  {
+    "categoryName": "Cemilan",
+    "sku": "FIKJPL",
+    "name": "Beng-Beng",
+    "description": "Cokelat wafer renyah yang dilapisi karamel dan krim cokelat, nikmati setiap gigitannya yang memanjakan lidah.",
+    "weight": 617,
+    "image": "https://down-id.img.susercontent.com/file/6f65642213c78d3b629a0074e055935f",
+    "price": 2500
+  },
+  {
+    "categoryName": "Cemilan",
+    "sku": "DLHZMT",
+    "name": "Tango Wafer",
+    "description": "Wafer lapis cokelat yang renyah dan lezat, dengan krim lembut di tengah yang membuatnya sempurna untuk menemani waktu santai Anda.",
+    "weight": 773,
+    "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98o-lkxszhxhlkxsfb",
+    "price": 4000
+  },
+  {
+    "categoryName": "Cemilan",
+    "sku": "IS3ZTC",
+    "name": "SilverQueen",
+    "description": "Batang cokelat legendaris dengan kacang mete gurih, memberikan kombinasi rasa manis dan gurih yang tak terlupakan.",
+    "weight": 371,
+    "image": "https://down-id.img.susercontent.com/file/87cad87ea99d4122f3567407a6151166",
+    "price": 12000
+  },
+  {
+    "categoryName": "Cemilan",
+    "sku": "Y6D5HR",
+    "name": "Oreo",
+    "description": "Biskuit hitam dengan krim putih yang terkenal di seluruh dunia, nikmati dengan segelas susu untuk pengalaman sempurna.",
+    "weight": 249,
+    "image": "https://down-id.img.susercontent.com/file/061a10cd215d53076e53056cf1a13cb6",
+    "price": 6000
+  },
+  {
+    "categoryName": "Cemilan",
+    "sku": "UIDKSJ",
+    "name": "Malkist Crackers",
+    "description": "Keripik biskuit yang renyah dengan taburan gula, memberikan sensasi manis dan renyah dalam setiap gigitan.",
+    "weight": 500,
+    "image": "https://down-id.img.susercontent.com/file/8d051c9e68b08e5382aeef1573f0f083",
+    "price": 5000
+  },
+  {
+    "categoryName": "Cemilan",
+    "sku": "ZXC456",
+    "name": "Kacang Garuda",
+    "description": "Kacang tanah goreng yang gurih dan renyah, sempurna untuk teman ngobrol atau camilan saat bersantai.",
+    "weight": 450,
+    "image": "https://down-id.img.susercontent.com/file/b49f99229b7264e818e4922ea146bbf8",
+    "price": 3000
+  },
+  {
+    "categoryName": "Cemilan",
+    "sku": "RTY789",
+    "name": "Good Time Cookies",
+    "description": "Kue kering dengan keping cokelat yang melimpah, memberikan kebahagiaan di setiap gigitannya.",
+    "weight": 300,
+    "image": "https://down-id.img.susercontent.com/file/sg-11134201-7rd4k-luxl41y1g6yp56",
+    "price": 8000
+  },
+  {
+    "categoryName": "Cemilan",
+    "sku": "VBN012",
+    "name": "Cheetos",
+    "description": "Keripik jagung yang renyah dengan rasa keju yang kuat, membuat setiap momen ngemil jadi lebih menyenangkan.",
+    "weight": 600,
+    "image": "https://down-id.img.susercontent.com/file/b352e7e98d1682fda889e2b7aedce0b7",
+    "price": 7000
+  },
+  {
+    "categoryName": "Cemilan",
+    "sku": "ASD345",
+    "name": "KitKat",
+    "description": "Cokelat wafer dengan rasa yang ikonik, ambil istirahat dengan KitKat dan nikmati setiap patahannya yang renyah.",
+    "weight": 400,
+    "image": "https://down-id.img.susercontent.com/file/id-11134211-7r98p-lohi7zs2tbwg35",
+    "price": 10000
+  },
+  {
+    "categoryName": "Minuman",
+    "sku": "QWE123",
+    "name": "Pepsi Blue",
+    "description": "Pepsi Blue yang super enak, hanya di toko klontong kami",
+    "weight": 330,
+    "image": "https://down-id.img.susercontent.com/file/sg-11134201-22120-zibxy1clf8kva5",
+    "price": 7000
+  },
+  {
+    "categoryName": "Minuman",
+    "sku": "ZXC459",
+    "name": "Fanta",
+    "description": "Fanta yang super enak, hanya di toko klontong kami",
+    "weight": 250,
+    "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98o-llueuzeukcnb86",
+    "price": 6000
+  },
+  {
+    "categoryName": "Minuman",
+    "sku": "RKY789",
+    "name": "Sprite",
+    "description": "Sprite yang super enak, hanya di toko klontong kami",
+    "weight": 250,
+    "image": "https://down-id.img.susercontent.com/file/id-11134201-7r98q-llu7jdrjbiycea",
+    "price": 6000
+  },
+  {
+    "categoryName": "Cemilan",
+    "sku": "VBP012",
+    "name": "Twistko",
+    "description": "Twistko yang super enak, hanya di toko klontong kami",
+    "weight": 100,
+    "image": "https://down-id.img.susercontent.com/file/id-11134207-7r992-lnhyl4ge216x63",
+    "price": 3000
+  },
+  {
+    "categoryName": "Cemilan",
+    "sku": "KSD345",
+    "name": "Qtela",
+    "description": "Qtela yang super enak, hanya di toko klontong kami",
+    "weight": 200,
+    "image": "https://via.placeholder.com/150",
+    "price": 5000
+  },
+  {
+    "categoryName": "Cemilan",
+    "sku": "FIOOPL",
+    "name": "Doritos",
+    "description": "Doritos yang super enak, hanya di toko klontong kami",
+    "weight": 300,
+    "image": "https://via.placeholder.com/150",
+    "price": 8000
+  },
+  {
+    "categoryName": "Cemilan",
+    "sku": "DLPLMT",
+    "name": "Pocky",
+    "description": "Pocky yang super enak, hanya di toko klontong kami",
+    "weight": 40,
+    "image": "https://via.placeholder.com/150",
+    "price": 7000
+  },
+  {
+    "categoryName": "Cemilan",
+    "sku": "ISWETC",
+    "name": "Gery Saluut",
+    "description": "Gery Saluut yang super enak, hanya di toko klontong kami",
+    "weight": 100,
+    "image": "https://via.placeholder.com/150",
+    "price": 3000
+  },
+  {
+    "categoryName": "Cemilan",
+    "sku": "YPP5HR",
+    "name": "Chitato",
+    "description": "Chitato yang super enak, hanya di toko klontong kami",
+    "weight": 180,
+    "image": "https://down-id.img.susercontent.com/file/c0ee3a85be0df1181bb088a3fe1e3319",
+    "price": 7500
+  },
+  {
+    "categoryName": "Cemilan",
+    "sku": "XERWEQ",
+    "name": "Happy Tos",
+    "description": "Happy Tos yang super enak, hanya di toko klontong kami",
+    "weight": 250,
+    "image": "https://down-id.img.susercontent.com/file/c4e465c25a35983a8af00e36bc35fad8",
+    "price": 6500
+  },
+
+  {
+    "categoryName": "Cemilan",
+    "sku": "MNB890",
+    "name": "Nabati Cheese Wafer",
+    "description": "Nabati Cheese Wafer yang super enak, hanya di toko klontong kami",
+    "weight": 200,
+    "image": "https://down-id.img.susercontent.com/file/sg-11134201-7rbk0-lkt1t2p42xx4b5",
+    "price": 5000
+  },
+  {
+    "categoryName": "Cemilan",
+    "sku": "LKJ123",
+    "name": "Biskuat",
+    "description": "Biskuat yang super enak, hanya di toko klontong kami",
+    "weight": 180,
+    "image": "https://down-id.img.susercontent.com/file/id-11134207-23010-40bhmmuwz5lve0",
+    "price": 3000
+  },
+  {
+    "categoryName": "Cemilan",
+    "sku": "OIP234",
+    "name": "Chocolatos",
+    "description": "Chocolatos yang super enak, hanya di toko klontong kami",
+    "weight": 100,
+    "image": "https://down-id.img.susercontent.com/file/id-11134201-7r98r-lq37njhz1n5rd0",
+    "price": 2000
+  },
+  {
+    "categoryName": "Cemilan",
+    "sku": "JIK456",
+    "name": "JetZ",
+    "description": "JetZ yang super enak, hanya di toko klontong kami",
+    "weight": 150,
+    "image": "https://down-id.img.susercontent.com/file/b488ad357a97ab1ffd6a4977c3687068",
+    "price": 3500
+  },
+  {
+    "categoryName": "Cemilan",
+    "sku": "IUR678",
+    "name": "Mister Potato",
+    "description": "Mister Potato yang super enak, hanya di toko klontong kami",
+    "weight": 110,
+    "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98o-lp0okvt0srym89",
+    "price": 4500
+  },
+  {
+    "categoryName": "Cemilan",
+    "sku": "YUJ789",
+    "name": "Pop Mie",
+    "description": "Pop Mie yang super enak, hanya di toko klontong kami",
+    "weight": 90,
+    "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98s-lmzsume47xu4bd",
+    "price": 6000
+  },
+  {
+    "categoryName": "Cemilan",
+    "sku": "PLM890",
+    "name": "Indomie Goreng",
+    "description": "Indomie Goreng yang super enak, hanya di toko klontong kami",
+    "weight": 85,
+    "image": "https://down-id.img.susercontent.com/file/sg-11134201-22100-3wvsurnk0tiv75",
+    "price": 3000
+  },
+  {
+    "categoryName": "Cemilan",
+    "sku": "OPW901",
+    "name": "Sedaap Mie",
+    "description": "Sedaap Mie yang super enak, hanya di toko klontong kami",
+    "weight": 85,
+    "image": "https://down-id.img.susercontent.com/file/id-11134201-7r98z-lsw6vpb7lf5u4b",
+    "price": 3000
+  },
+  {
+    "categoryName": "Cemilan",
+    "sku": "EDR123",
+    "name": "Cimory Yogurt",
+    "description": "Cimory Yogurt yang super enak, hanya di toko klontong kami",
+    "weight": 250,
+    "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98s-lohu2wx6yjtt17",
+    "price": 12000
+  },
+  {
+    "categoryName": "Cemilan",
+    "sku": "KLN234",
+    "name": "Yupi",
+    "description": "Yupi yang super enak, hanya di toko klontong kami",
+    "weight": 100,
+    "image": "https://down-id.img.susercontent.com/file/sg-11134201-7rcd2-lr2uh6rg5nhw06",
+    "price": 5000
+  },
+  {
+    "categoryName": "Minuman",
+    "sku": "PIJ567",
+    "name": "Cap Kaki Tiga",
+    "description": "Cap Kaki Tiga yang super enak, hanya di toko klontong kami",
+    "weight": 300,
+    "image": "https://down-id.img.susercontent.com/file/sg-11134201-7qvdp-lhxzyiuaw4kpa1",
+    "price": 5000
+  },
+  {
+    "categoryName": "Cemilan",
+    "sku": "NMB678",
+    "name": "Ovaltine",
+    "description": "Ovaltine yang super enak, hanya di toko klontong kami",
+    "weight": 200,
+    "image": "https://down-id.img.susercontent.com/file/baa77d27fc8e97e9b65fa1dcc1150c21",
+    "price": 12000
+  },
+  {
+    "categoryName": "Cemilan",
+    "sku": "ERT890",
+    "name": "Roma Sari Gandum",
+    "description": "Roma Sari Gandum yang super enak, hanya di toko klontong kami",
+    "weight": 300,
+    "image": "https://down-id.img.susercontent.com/file/sg-11134201-22100-x6nxaq157viv03",
+    "price": 5000
+  },
+  {
+    "categoryName": "Cemilan",
+    "sku": "WQE901",
+    "name": "Biscuit Marie",
+    "description": "Biscuit Marie yang super enak, hanya di toko klontong kami",
+    "weight": 250,
+    "image": "https://down-id.img.susercontent.com/file/f01a474199f0962361e93047f08f75ac",
+    "price": 4500
+  },
+
+  {
+    "categoryName": "Minuman",
+    "sku": "ABC123",
+    "name": "Teh Botol Sosro",
+    "description": "Teh Botol Sosro yang menyegarkan, minuman teh berkualitas dengan rasa yang khas.",
+    "weight": 300,
+    "image": "https://down-id.img.susercontent.com/file/c15609dc5ab0e98c50243d83cfe93450",
+    "price": 4000
+  },
+  {
+    "categoryName": "Minuman",
+    "sku": "DEF456",
+    "name": "Aqua",
+    "description": "Air mineral Aqua, pilihan terbaik untuk menjaga tubuh tetap terhidrasi.",
+    "weight": 600,
+    "image": "https://down-id.img.susercontent.com/file/id-11134207-7quky-ligsyhmrsm0r4c",
+    "price": 3000
+  },
+  {
+    "categoryName": "Minuman",
+    "sku": "GHI789",
+    "name": "Coca-Cola",
+    "description": "Coca-Cola yang menyegarkan, minuman soda yang populer di seluruh dunia.",
+    "weight": 330,
+    "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98q-llue9rtc6yasb6",
+    "price": 5000
+  },
+  {
+    "categoryName": "Minuman",
+    "sku": "PQR678",
+    "name": "Pocari Sweat",
+    "description": "Pocari Sweat, minuman ion yang membantu mengembalikan cairan tubuh.",
+    "weight": 350,
+    "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98v-luiws4v29c1g06",
+    "price": 7000
+  },
+  {
+    "categoryName": "Minuman",
+    "sku": "STU901",
+    "name": "Floridina",
+    "description": "Floridina, minuman jeruk yang menyegarkan dengan rasa asli buah jeruk.",
+    "weight": 350,
+    "image": "https://down-id.img.susercontent.com/file/id-11134201-7r98z-lsuyuuiidqlmff",
+    "price": 4500
+  },
+  {
+    "categoryName": "Minuman",
+    "sku": "VWX234",
+    "name": "Minute Maid Pulpy",
+    "description": "Minute Maid Pulpy dengan jus buah asli, memberikan kesegaran alami.",
+    "weight": 300,
+    "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98x-llueuzeuiy3j65",
+    "price": 6000
+  },
+  {
+    "categoryName": "Minuman",
+    "sku": "YZA567",
+    "name": "Mizone",
+    "description": "Mizone, minuman isotonic dengan rasa buah yang menyegarkan.",
+    "weight": 500,
+    "image": "https://down-id.img.susercontent.com/file/5aaa941b8127c968693594b13ebb9622",
+    "price": 8000
+  },
+  {
+    "categoryName": "Minuman",
+    "sku": "BCD890",
+    "name": "Le Minerale",
+    "description": "Le Minerale, air mineral berkualitas tinggi untuk memenuhi kebutuhan cairan tubuh.",
+    "weight": 600,
+    "image": "https://down-id.img.susercontent.com/file/2b263141d7979917a16995e0df01386d",
+    "price": 3000
+  },
+
+  {
+    "categoryName": "Minuman",
+    "sku": "HIJ456",
+    "name": "Bear Brand",
+    "description": "Bear Brand, susu steril yang menyehatkan dan baik untuk tubuh.",
+    "weight": 189,
+    "image": "https://down-id.img.susercontent.com/file/sg-11134201-7r98o-ll0i1x67g30o5f",
+    "price": 8500
+  },
+  {
+    "categoryName": "Minuman",
+    "sku": "KLM789",
+    "name": "Indomilk",
+    "description": "Indomilk, susu segar dengan rasa nikmat untuk seluruh keluarga.",
+    "weight": 250,
+    "image": "https://down-id.img.susercontent.com/file/df7287959335934bfc5073941cce9e36",
+    "price": 5000
+  },
+  {
+    "categoryName": "Minuman",
+    "sku": "NOP012",
+    "name": "Fruit Tea",
+    "description": "Fruit Tea dengan rasa buah yang menyegarkan, sempurna untuk dinikmati kapan saja.",
+    "weight": 350,
+    "image": "https://down-id.img.susercontent.com/file/630f45a710c749a8813eb8ac66feb951",
+    "price": 4000
+  },
+  {
+    "categoryName": "Minuman",
+    "sku": "QRS345",
+    "name": "Good Day",
+    "description": "Good Day, kopi instan dengan berbagai varian rasa yang nikmat.",
+    "weight": 200,
+    "image": "https://down-id.img.susercontent.com/file/dfd23a3a5a378b1967d0ffb35f445af5",
+    "price": 3500
+  },
+  {
+    "categoryName": "Minuman",
+    "sku": "TUV678",
+    "name": "Nescafe",
+    "description": "Nescafe, kopi instan dengan aroma dan rasa yang khas.",
+    "weight": 200,
+    "image": "https://down-id.img.susercontent.com/file/a6f257483afe1d4e0b243cb3488f89f4",
+    "price": 4000
+  },
+  {
+    "categoryName": "Minuman",
+    "sku": "WXY901",
+    "name": "Kratingdaeng",
+    "description": "Kratingdaeng, minuman energi untuk meningkatkan stamina dan daya tahan tubuh.",
+    "weight": 150,
+    "image": "https://down-id.img.susercontent.com/file/id-11134207-7r98s-llkezp6oaw1o08",
+    "price": 5000
+  },
+  {
+    "categoryName": "Minuman",
+    "sku": "ZAB234",
+    "name": "Hemaviton",
+    "description": "Hemaviton, minuman energi dengan vitamin untuk menjaga kesehatan tubuh.",
+    "weight": 150,
+    "image": "https://down-id.img.susercontent.com/file/d699d26abac008cac609bdb666076cce",
+    "price": 6000
+  },
+  {
+    "categoryName": "Minuman",
+    "sku": "CDE567",
+    "name": "YOU C1000",
+    "description": "YOU C1000, minuman vitamin C dengan rasa jeruk yang menyegarkan.",
+    "weight": 140,
+    "image": "https://down-id.img.susercontent.com/file/sg-11134201-7rbmr-lmxb25cw7kgpe1",
+    "price": 7000
+  },
+  {
+    "categoryName": "Minuman",
+    "sku": "FGH890",
+    "name": "IsoPlus",
+    "description": "IsoPlus, minuman isotonik dengan rasa buah untuk mengembalikan ion tubuh.",
+    "weight": 350,
+    "image": "https://down-id.img.susercontent.com/file/id-11134201-7r98t-lsuz25jjjrkl8a",
+    "price": 6500
+  }
+]
