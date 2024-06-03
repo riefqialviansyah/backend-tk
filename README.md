@@ -2,7 +2,7 @@
 
 ## Deploy
 
-- Link :
+- Link : https://toko-klontong-be.riefqialviansyah.com/
 
 ## list Endpoints
 
