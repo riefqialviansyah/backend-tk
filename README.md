@@ -34,4 +34,7 @@
 - install dependecy `npm i`
 - change file `.env-exampe` to `.env`
 - configure your database, if you use postgres you just need to set your correct password
+- create database `npx sequelize db:create`
+- migrate table `npx sequelize db:migrate`
+- seeding data `npx sequelize db:seed:all`
 - runing app with `npx nodemon bin/www`
